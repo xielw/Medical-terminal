@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/6668.jpg</file>
+        <file>image/A1-1.jpg</file>
+        <file>image/A1-2.jpg</file>
+        <file>image/A1-3.jpg</file>
+        <file>image/A1-4.jpg</file>
+        <file>image/A1-5.jpg</file>
+        <file>image/A1-6.jpg</file>
+        <file>image/1001.jpg</file>
+        <file>image/dd.bmp</file>
+        <file>image/cancel_red.png</file>
+        <file>image/playerground.jpg</file>
+        <file>image/close_hover.png</file>
+        <file>image/a.png</file>
+        <file>image/c.png</file>
+        <file>image/d.png</file>
+        <file>image/e.png</file>
+        <file>image/f.png</file>
+        <file>image/g.png</file>
+        <file>image/444.png</file>
+        <file>image/222.png</file>
+        <file>image/333.png</file>
+        <file>image/111.png</file>
+        <file>image/5.png</file>
+        <file>image/1.png</file>
+        <file>image/2.png</file>
+        <file>image/3.png</file>
+        <file>image/4.png</file>
+    </qresource>
+</RCC>
